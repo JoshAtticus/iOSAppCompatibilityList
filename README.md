@@ -11,6 +11,7 @@ N - Native
 | VNC Viewer       | RealVNC           | Yes - OV      | Basic          |
 | Cut the Rope     | ZeptoLab UK       | Yes - OV      | Works          |
 | Candy Crush      | King              | Yes - OV      | Works          |
+| OpenVPN Connect  | OpenVPN           | Yes - OV      | Works          |
 | Roblox           | Roblox Corp       | No            | Needs iOS 9    |
 | Brawlhalla       | Ubisoft           | No            | Needs iOS 11   |
 | Crossy Road      | HIPSTER WHALE     | No            | Needs iOS 11   |
